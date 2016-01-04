@@ -5,23 +5,23 @@
  
  </br>
  </br>
- Toast显示:
+ Toast显示:</br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/LeakCanary.png)
  </br>
  </br>
-  通知:
+  通知:</br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/1.png)
  </br>
  </br>
-  桌面添加图标:
+  桌面添加图标:</br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/2.png)
  </br>
  </br>
-  内存泄露列表:
+  内存泄露列表:</br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/3.png)
  </br>
  </br>
- 内存泄露详细:
+ 内存泄露详细:</br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/4.png)
 </br>
 </br>
