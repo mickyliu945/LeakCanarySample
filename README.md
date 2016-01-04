@@ -13,7 +13,7 @@
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/1.png)
  </br>
  </br>
-  桌面添加图标:</br>
+  桌面自动添加的图标:</br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/2.png)
  </br>
  </br>
