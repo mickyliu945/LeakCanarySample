@@ -1,6 +1,7 @@
 <h2>内存泄露自动检测神器<h2>
    LeakCanary是Square开源了一个内存探测开源项目
 </br>
+ 当有内存溢出的时候(LeakCanary)能够自动检测并提示（当然可以设置在debug模式下才检测)。
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/LeakCanary.png)
 </br>
 </br>
