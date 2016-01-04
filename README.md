@@ -3,9 +3,13 @@
 </br>
  当有内存溢出的时候(LeakCanary)能够自动检测并提示（当然可以设置在debug模式下才检测)。
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/LeakCanary.png)
+ </br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/1.png)
+ </br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/2.png)
+ </br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/3.png)
+ </br>
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/4.png)
 </br>
 </br>
