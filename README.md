@@ -1,5 +1,5 @@
 <h2>内存泄露自动检测神器<h2>
-<h1>LeakCanary是Square开源了一个内存探测开源项目:https://github.com/square/leakcanary<h1>
+   LeakCanary是Square开源了一个内存探测开源项目
 </br>
  ![](https://github.com/mickyliu945/WeiXinCircleListView/blob/master/Screenshots/a.png)
 </br>
