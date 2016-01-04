@@ -4,17 +4,22 @@
  当有内存溢出的时候(LeakCanary)能够自动检测并提示（当然可以设置在debug模式下才检测)。
  
  </br>
+ </br>
  Toast显示:
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/LeakCanary.png)
+ </br>
  </br>
   通知:
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/1.png)
  </br>
+ </br>
   桌面添加图标:
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/2.png)
  </br>
+ </br>
   内存泄露列表:
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/3.png)
+ </br>
  </br>
  内存泄露详细:
  ![](https://github.com/mickyliu945/LeakCanarySample/blob/master/screenshots/4.png)
